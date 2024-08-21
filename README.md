@@ -32,6 +32,8 @@ To run this program and generate the interactive map, follow these steps:
    python app.py
    ```
 
+   Now open the created html file and open it on a web browser.
+
 # To-Do List
 
 ## Map Enhancements
