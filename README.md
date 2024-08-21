@@ -1,4 +1,4 @@
-# Interactive Map with Folium
+# Interactive DC - Map with Folium
 
 ## Overview
 
@@ -31,3 +31,19 @@ To run this program and generate the interactive map, follow these steps:
    ```bash
    python app.py
    ```
+
+# To-Do List
+
+## Map Enhancements
+
+- [ ] **Add Appropriate Icons**: Include custom icons for different types of markers.
+- [ ] **Add Polygons for DC Map and Its Wards**: Overlay polygons to represent different wards on the DC map.
+- [ ] **Add More Points of Interest**: Include additional locations of interest on the map.
+
+## Additional Tasks
+
+- [ ] **Optimize Map Performance**: Ensure the map loads efficiently with large datasets.
+- [ ] **Implement Search Functionality**: Add a search bar to allow users to find specific locations.
+- [ ] **Include Legend for Map**: Add a legend to explain the meanings of different marker colors and icons.
+- [ ] **Enhance Popup Styling**: Improve the design of popups for better readability and user experience.
+- [ ] **Add Geolocation Feature**: Integrate a geolocation feature to center the map on the user's current location.
